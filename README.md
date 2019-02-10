@@ -4,7 +4,7 @@
 
 The purpose of is project is to design and tune a PID controller for a SISO inverted pendulum system. Stabilizing an inverted pendulum is a common exercise for digital control engineers as it demonstrates the utility of feedback control systems in stabilizing otherwise unstable systems.
 
-The physical Pendulum requires the following parts:
+To build the pendulum assembly you will need the following parts:
 
 * Arduino Uno
 * <a href="https://www.adafruit.com/product/1438">Adafruit Motor Shield for Arduino v2</a> 
