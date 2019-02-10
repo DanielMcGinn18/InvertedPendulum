@@ -12,8 +12,8 @@ The physical Pendulum requires the following parts:
 * <a href="https://www.adafruit.com/product/1253">Timing Pulley</a> 
 * <a href="https://www.adafruit.com/product/1184">Timing Belt</a> 
 * <a href="https://www.adafruit.com/product/1861">Slide Rail</a> 
-* <a href="https://www.adafruit.com/product/1253">Ball Bearing Carriage</a> 
-* <a href="https://www.adafruit.com/product/1173">Ball Bearings</a> 
+* <a href="https://www.adafruit.com/product/1866">Ball Bearing Carriage</a> 
+* <a href="https://www.adafruit.com/product/1178">Ball Bearings</a> 
 * <a href="https://www.robotshop.com/en/6mm-rotary-encoder-1024-p-r.html?gclid=Cj0KCQjwi8fdBRCVARIsAEkDvnKD4ZyV829t6cNGLoy-b9RAKCcZPNsHa56aceI0siQbEQPnDEmfI68aAoJGEALw_wcB">Rotary Encoder</a> 
 * <a href="https://www.robotshop.com/en/set-screw-hub-6mm.html">Shaft Mounting Hub</a> 
 * 1/4" Steel Shaft (18" length)
